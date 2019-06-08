@@ -11,7 +11,6 @@ public class ArrayLIst1 {
 		ArrayList<Integer> myArrayList = new ArrayList<Integer>();
 		
 		ArrayList<Float> floatAL = new ArrayList<Float>();
-		
 		myArrayList.add(10);
 		myArrayList.add(10);
 		myArrayList.add(10);
@@ -31,7 +30,6 @@ public class ArrayLIst1 {
 		{
 			System.out.println(c);
 		}
-		
 		LinkedList<Integer> llist = new LinkedList<Integer>();
 		
 		llist.add(0, 100);
